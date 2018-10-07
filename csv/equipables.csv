@@ -1,0 +1,44 @@
+Name,Description,Price,Type,Rarity,Total Health,Total Stamina,Total Mana,Physical Strength,Magical Strength,Physical Resistance,Magical Resistance,Fire Strength,Frost Strength,Shock Strength,Fire Resistance,Frost Resistance,Shock Resistance,Total Base Stats ,Total Active Stats Are Balanced
+Rusty Axe,Basic axe your grandfather owned,50,WEAPON,COMMON,0,0,0,50,-50,0,0,0,0,0,0,0,0,TRUE,TRUE
+Taped Wand,Some stick found in the forest and declared to have magical properties,50,WEAPON,COMMON,0,0,0,-20,20,0,0,0,0,0,0,0,0,TRUE,TRUE
+Stick,Basically a taped wand but without the magic,50,WEAPON,COMMON,0,0,0,20,-20,0,0,0,0,0,0,0,0,TRUE,TRUE
+Lumberaxe,Used for chopping wood and heads,50,WEAPON,COMMON,0,0,0,50,-50,0,0,0,0,0,0,0,0,TRUE,TRUE
+Talwaar,A curved blade from the Indian Subcontinent designed to take lives ,50,WEAPON,COMMON,0,0,0,60,-60,0,0,0,0,0,0,0,0,TRUE,TRUE
+Wooden Shield,Used to bash people and block blows,50,WEAPON,COMMON,0,0,0,25,-25,50,-12.5,0,0,0,-12.5,-12.5,-12.5,TRUE,TRUE
+Iron Mace,Bash skulls with a hardy mace,50,WEAPON,COMMON,0,0,0,50,-50,0,0,0,0,0,0,0,0,TRUE,TRUE
+Steel Platter,For serving up enemies with a side of whooping,50,WEAPON,COMMON,0,0,0,25,-25,10,5,-10,-10,-10,5,5,5,TRUE,TRUE
+Plastic Cape,When you have too many garbage bags,50,ARMOR,COMMON,-20,0,20,0,0,-20,20,0,0,0,0,0,0,TRUE,TRUE
+Cloth Armor,Piece of cloth your grandmother knitted,50,ARMOR,COMMON,30,-15,-15,0,0,20,-20,0,0,0,0,0,0,TRUE,TRUE
+Bed Sheet,Wrap it around your shoulders and be Superman!,50,ARMOR,COMMON,50,-25,-25,50,-40,-10,0,0,0,0,0,0,0,TRUE,TRUE
+Garbage Bag,Garbage bag starts with a G...even I know that and I can't even spell garbage!,50,ARMOR,COMMON,50,-30,-20,30,-10,0,-10,0,0,0,-10,0,0,TRUE,TRUE
+Cardboard Hat,It's effective against the rain...for 10 seconds.,50,ARMOR,COMMON,50,-40,-10,30,0,-30,0,0,0,0,0,0,0,TRUE,TRUE
+Printer Paper,Mass produced and good source of fiber.,50,ARMOR,COMMON,20,-10,-10,100,-20,-20,-20,0,0,0,-20,-20,0,TRUE,TRUE
+Wood,Wood,50,ARMOR,COMMON,0,0,0,0,0,0,0,0,0,0,0,0,0,TRUE,TRUE
+Cotton Jacket,$14.99,50,ARMOR,COMMON,40,50,-90,0,0,30,30,-20,-20,-20,0,0,0,TRUE,TRUE
+Nethersprite Dagger,A dagger that can slice and dice while simultaneously setting the target aflame,100,WEAPON,RARE,0,0,50,200,0,-100,-50,0,0,0,0,0,0,TRUE,TRUE
+Unicorn Staff,Unicorn horn.,100,WEAPON,RARE,0,0,50,0,0,0,0,0,100,-50,0,0,0,TRUE,TRUE
+Occult Sword,Sword from the shadow cult.,100,WEAPON,RARE,0,0,50,200,0,-75,-75,0,0,0,0,0,0,TRUE,TRUE
+Shadow Blade,A blade which kills in the dark,100,WEAPON,RARE,0,50,0,200,0,-50,-50,20,20,20,-10,-50,-50,TRUE,TRUE
+Ring of Boran (Green),A ring with magic imbued by Boran brother of the infamous Magi Doran. Chromas!,100,WEAPON,RARE,0,50,0,0,200,-100,-100,30,30,30,-15,-15,-10,TRUE,TRUE
+Ring of Boran (Blue),ing with magic imbued by Boran brother of the infamous Magi Doran. Chromas!,100,WEAPON,RARE,0,50,0,0,200,-100,-100,20,30,40,-20,-5,-15,TRUE,TRUE
+Ninja Armor,Standard issued ninja armor slightly worse than Senjin Armor but whatever.,100,ARMOR,RARE,200,-100,-50,0,0,200,100,-100,-100,0,-20,-20,-10,TRUE,TRUE
+Crane Cape,Cape of the Crane Lord who's not actually a crane but just looks like one.,100,ARMOR,RARE,200,-150,0,0,0,0,300,-100,-50,-50,0,0,-50,TRUE,TRUE
+Momma's Sweater,Your mom knitted this sweater - the power of love can be very powerful.,100,ARMOR,RARE,200,0,-150,0,0,300,300,-100,-100,-100,-100,-75,-75,TRUE,TRUE
+Ogre Cape (Red),Say hi to chromas!,100,ARMOR,RARE,200,-130,-20,0,0,400,0,-100,-100,-100,0,-50,0,TRUE,TRUE
+Senjin Armor,The armor worn by Master Senjin the previous lord of the Shen Clan.,100,ARMOR,RARE,200,-10,-140,0,0,500,0,-150,-150,-150,0,0,0,TRUE,TRUE
+Ogre Cape (Blue),Say hi to chromas!,100,ARMOR,RARE,200,-75,-75,0,0,400,0,-100,-100,-100,-25,0,-25,TRUE,TRUE
+Lance of Jahad,The lance of King Jahad the man who owns the Tower  (a place filled with magic and mysterious creatures).,200,WEAPON,EPIC,300,-200,0,400,0,0,0,0,300,0,-300,0,-300,TRUE,TRUE
+Bluefire Dagger,The dagger of lord Bluefire the former ruler of hell (he's probably sipping a cocktail in the Shen Beach right now).,200,WEAPON,EPIC,2000,-1000,-900,550,0,-150,0,0,300,0,0,-300,-300,TRUE,TRUE
+Ring of Galio,The ring of the stone colossus Galio the guardian of the country of Bynagari. ,200,WEAPON,EPIC,1000,-500,-400,0,600,0,400,-200,-200,-200,-100,-100,-100,TRUE,TRUE
+Whip of Infinity,A whip that has been around since the dawn of man. Instead of rusting it seems to get shinier as the eons pass by.,200,WEAPON,EPIC,0,50,50,200,700,-300,-300,0,0,0,-100,-50,-50,TRUE,TRUE
+Hell Joe's Thyrassia ,A strange animal born from the death of the God of Death.,200,ARMOR,EPIC,5000,-2400,-2500,0,0,300,300,-100,-100,-100,-100,-50,-50,TRUE,TRUE
+Cloak of Zion,Cloak of the prodigious student Zion who disappeared in search of other lands.,200,ARMOR,EPIC,10000,0,-9900,0,0,0,500,-200,-150,-50,0,0,0,TRUE,TRUE
+Cape of Thoth,Cape of the scholar Thoth who bestowed upon the people fire and plants.,200,ARMOR,EPIC,3000,-100,-2800,0,0,0,600,-100,-100,-100,-50,-50,-100,TRUE,TRUE
+Pink Bean Costume,This was formerly the body for the spirit of the Pink Bean a silly bean who accidentally ate the northern country of Putcha.,200,ARMOR,EPIC,2000,-900,-1000,0,0,600,-100,-100,-50,-50,-100,-100,0,TRUE,TRUE
+Scepter of Nasus,The scepter that belonged to one of the three legendary generals: Nasus the scholar who introduced medicine and books to the continent.,500,WEAPON,LEGENDARY,0,-9800,10000,0,1000,-300,-300,-50,0,-50,-50,-50,0,TRUE,TRUE
+Axiom of Darius,The axe that belonged to one of the three legendary generals: Darius who infamously split the continent in half with a mere sneeze. ,500,WEAPON,LEGENDARY,0,10000,-9800,1000,0,-300,-300,-50,0,-50,-50,-50,0,TRUE,TRUE
+Wings of Magnus,The wings that belonged to one of the three legendary generals: Magnus the tyrant who kept 99% of the world population enslaved.,500,ARMOR,LEGENDARY,20000,-19800,0,200,200,400,400,-300,-300,-300,-50,-50,0,TRUE,TRUE
+Hide of Baam,The hide of the slain monster Baam the legendary monster who took 25 days in darkness to kill. It is rumored that even Hell refuses to accept the soul of this divine creature.,500,ARMOR,LEGENDARY,20000,0,-19800,300,300,300,300,-300,-300,-300,-50,-50,0,TRUE,TRUE
+Stick of Truth,A stick that descended from the sky imbued with magical power beyond comprehension. Warning - all owners have gone insane. ,500,WEAPON,GODLY,-500,500,500,100000,100000,0,0,0,-66500,-66500,-66500,0,0,TRUE,TRUE
+Jacket of Tan,The jacket worn by the God Tan a divine being who blessed the holy lands with light...and darkness.,500,ARMOR,GODLY,30000,-14500,-15000,40000,40000,1000,1000,0,0,-500,-27000,-27000,-27000,TRUE,TRUE
+?,A portal to the heavens where gods are lower than ants...,10000,ARMOR,GODLY,0,0,0,0,0,0,0,0,0,0,0,0,0,,

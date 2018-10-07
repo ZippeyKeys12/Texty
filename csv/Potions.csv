@@ -1,0 +1,12 @@
+Name,Description,Price,Rarity,Type,Health,Stamina,Mana
+Small Heal,Heals for 100 health,10,RARE,INSTANT,100,0,0
+Medium Heal,Heals for 500 health,50,RARE,INSTANT,500,0,0
+Large Heal,Heals for 1000 health,100,EPIC,INSTANT,1000,0,0
+Mega Heal,Heals for 2000 health,200,LEGENDARY,INSTANT,2000,0,0
+Fire Rage,Increase Fire Strength by 50% (+50 if Strength = 0),100,RARE,INSTANT,0,0,200
+Frost Rage,Increase Frost Strength by 50% (+50 if Strength = 0),100,RARE,INSTANT,0,0,200
+Shock Rage,Increase Shock Strength by 50% (+50 if Strength = 0),100,RARE,INSTANT,0,0,200
+Shield!,Nullify All Attacks,1000,COMMON,INSTANT,0,0,0
+Frost Null,Nullify Frost Attacks for fight,200,COMMON,INSTANT,0,0,0
+Fire Null,Nullify Fire Attacks for fight,200,COMMON,INSTANT,0,0,0
+Shock Null,Nullify Shock Attacks for fight,200,COMMON,INSTANT,0,0,0
